@@ -1,0 +1,8 @@
+searchy
+*.pyc
+bin
+include
+lib
+lib64
+log
+pyvenv.cfg
